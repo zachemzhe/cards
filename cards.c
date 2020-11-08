@@ -23,6 +23,9 @@ int main()
 		case 'J':
 			val = 10;
 			break;
+		case 'A':
+			val = 11;
+			break;
 		default:
 			val = atoi(card_name);
 	}
